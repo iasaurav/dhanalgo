@@ -1,0 +1,7 @@
+install
+
+pip install dhanhq
+
+from dhanhq import dhanhq
+
+dhan = dhanhq("client_id","access_token")
